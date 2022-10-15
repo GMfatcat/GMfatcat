@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GMfatcat
-- 👀 I’m interested in Sleeping
+- 👀 I’m interested in Sleeping and Eating
 - 🌱 I’m currently learning DL/ML/Data Mining/Computer Vision
 - 📫 How to reach me : a60102244@gmail.com / Web page on github : [click me](https://gmfatcat.github.io/website.io/)
 
